@@ -35,5 +35,4 @@ Based on the analysis, the following recommendations are proposed:
 
 ### Analysis Report
 
-For a detailed exploration of the data, findings, and visualizations, please refer to the [Recommendation Report](link-to-your-report).
-
+For a detailed exploration of the data, findings, and visualizations, please refer to the [Recommendation Report](./Recommendation_Report.pdf).
