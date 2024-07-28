@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to increase the total company profit by 10%, leveraging product profitabilities and potentials for increased sales.
+This project aims to increase total company profit by 10% based on historical data through optimizing product profitability and maximizing sales potential.
 
 ## Insights and Recommendations
 
