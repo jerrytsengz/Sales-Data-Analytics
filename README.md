@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to increase the total company profit by 10% this year by focusing on the Copier subcategory, leveraging its high profitability and potential for increased sales.
+This project aims to increase the total company profit by 10%, leveraging product profitabilities and potentials for increased sales.
 
 ## Insights and Recommendations
 
